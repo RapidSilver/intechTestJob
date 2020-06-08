@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4409afdb-2a83-42c7-84f5-489cc33e30de" name="Default Changelist" comment="" />
+    <list default="true" id="4409afdb-2a83-42c7-84f5-489cc33e30de" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,5 +48,9 @@
       <screen x="0" y="0" width="1920" height="1035" />
     </state>
     <state x="763" y="412" width="393" height="212" key="Github.ShareDialog/0.0.1920.1035/1920.0.1280.1024@0.0.1920.1035" timestamp="1591598721533" />
+    <state x="703" y="144" width="508" height="749" key="Github.UntrackedFilesDialog" timestamp="1591598732475">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="703" y="144" width="508" height="749" key="Github.UntrackedFilesDialog/0.0.1920.1035/1920.0.1280.1024@0.0.1920.1035" timestamp="1591598732475" />
   </component>
 </project>

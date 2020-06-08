@@ -30,7 +30,7 @@ public class PublisherApplication {
 						Publisher.class);
 				logger.info("Статус ответа" + response.getStatusCode());
 				try {
-					TimeUnit.SECONDS.sleep(1);
+					TimeUnit.SECONDS.sleep(15);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
